@@ -1,0 +1,7 @@
+D:\Documents\M2\WebServices\TPs\TP001ClientDotNet\TP001ClientDotNet\bin\Debug\TP001ClientDotNet.exe.config
+D:\Documents\M2\WebServices\TPs\TP001ClientDotNet\TP001ClientDotNet\bin\Debug\TP001ClientDotNet.exe
+D:\Documents\M2\WebServices\TPs\TP001ClientDotNet\TP001ClientDotNet\bin\Debug\TP001ClientDotNet.pdb
+D:\Documents\M2\WebServices\TPs\TP001ClientDotNet\TP001ClientDotNet\obj\Debug\TP001ClientDotNet.csprojAssemblyReference.cache
+D:\Documents\M2\WebServices\TPs\TP001ClientDotNet\TP001ClientDotNet\obj\Debug\TP001ClientDotNet.csproj.CoreCompileInputs.cache
+D:\Documents\M2\WebServices\TPs\TP001ClientDotNet\TP001ClientDotNet\obj\Debug\TP001ClientDotNet.exe
+D:\Documents\M2\WebServices\TPs\TP001ClientDotNet\TP001ClientDotNet\obj\Debug\TP001ClientDotNet.pdb
